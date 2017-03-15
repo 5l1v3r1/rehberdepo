@@ -1,5 +1,3 @@
-#Paket Uretimine Baslangic-1 (Kisa Tanitim)
-
 Milis Linux'ta paket üretmek oldukça kolaylaştırılmıştır. Milis Linux'ta paketler talimat dosyaları sayesinde üretilir. Talimat dosyası bir paketin nasıl oluşturulacağı, gerekli olan bağımlılıkların neler olduğu, paketçinin adı, paketin adı ve açıklaması versiyon numarası gibi bilgileri barındırır. Mps paket yöneticisi de bu talimat dosyasına dayanarak paketi oluşturur.
 
 Peki bu talimat dosyası nasıl oluşturulur?
